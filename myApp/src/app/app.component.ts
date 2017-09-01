@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'My Sample Angular 2 with Web Api';
+  tooltipGetData='Please click to get data from API!';
 }
