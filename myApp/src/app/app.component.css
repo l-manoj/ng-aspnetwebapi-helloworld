@@ -1,14 +1,3 @@
-.button-ripple-effect {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+.app-anchor-styles{
+    width: 125px
 }
-
-.button-getdata-style{
-    background-color: #86C4D1;
-}
-
-.button-adddata-style{
-    background-color: #C6C974;
-}
-
